@@ -1,4 +1,3 @@
 #Demo
-This my Demo file
-Adding Line number 2 
+This my Demo file.
 Adding Anoyther line to the file
